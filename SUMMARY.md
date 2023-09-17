@@ -5,4 +5,4 @@
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [Linear Regression](group-1/linear-regression.md)
